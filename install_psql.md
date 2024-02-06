@@ -1,0 +1,2 @@
+- go to https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+- and download Windows x86-64 ( latest verson 15.3 )

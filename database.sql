@@ -1,0 +1,1 @@
+CREATE DATABASE test_db; /* test_db это имя базы данных */ 
